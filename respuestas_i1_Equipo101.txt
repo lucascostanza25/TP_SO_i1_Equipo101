@@ -1,6 +1,6 @@
-a-Si, puedo visualizar los datos que cargaron mis compañeros en el repositorio
-
+a- Si, puedo visualizar los datos que cargaron mis compañeros en el repositorio
+b- Si, los demas colaboradores pueden ver los archivos que subo
 c- Si, lo pueden vizualizar todos los integrantes del proyecto
 d- Nos comunicamos via Whatsapp y Github
 
-e-Dentro de github existe la parte de proyectos para manegar las tareas de cada uno, afuera de github usamos whatsapp para hablarnos 
+e- Dentro de github existe la parte de proyectos para manegar las tareas de cada uno, afuera de github usamos whatsapp para hablarnos 
