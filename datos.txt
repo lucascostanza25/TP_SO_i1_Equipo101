@@ -1,2 +1,3 @@
 Equipo 101
 - Costanza Lucas (ALFA)
+- Ciarlo Thomas Ip: 192.168.0.190  H: 9:55
